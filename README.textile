@@ -1,0 +1,11 @@
+h1. django-scheduler
+
+
+A simple scheduling app written with Django.
+
+ * both one-time and recurring events
+ * calendar exceptions (occurrences that've been changed or cancelled)
+ * occurrences accessible through Event API and Period API
+ * simple and intuitive user interface
+ * view day, week, month, three months and year
+ * project sample included
